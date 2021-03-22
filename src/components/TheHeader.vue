@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #14005e;
+    background-color: #08421e;
   }
 
   header h1 {
