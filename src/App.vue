@@ -26,7 +26,7 @@ export default {
       activeUser: {
         name: 'Pietro Casonni',
         description: 'Site owner and admin',
-        role: 'admin',
+        role: 'admin'
       },
     };
   },
@@ -37,7 +37,6 @@ export default {
 html {
   font-family: sans-serif;
 }
-
 body {
   margin: 0;
 }

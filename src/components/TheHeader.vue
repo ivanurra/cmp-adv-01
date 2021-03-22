@@ -13,7 +13,6 @@
     align-items: center;
     background-color: #08421e;
   }
-
   header h1 {
     color: white;
     margin: 0;
